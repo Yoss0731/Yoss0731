@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yoss0731
-- 👀 I’m interested in programming, anime, manga and learning.
+- 👀 I’m interested in programming and learning.
 - 🌱 I’m currently learning Software develoment and english.
 
 <!---
